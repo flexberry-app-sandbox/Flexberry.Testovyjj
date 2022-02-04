@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-testovyjj-обращение-e",
+  "editForm": "i-i-s-testovyjj-обращение-e",
+  "external": false,
+  "caption": "Обращение",
+  "name": "IISTestovyjjОбращениеL",
+  "className": "ОбращениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-testovyjj-обращение",
+      "modelProjection": "ОбращениеL"
+    }
+  ]
+}

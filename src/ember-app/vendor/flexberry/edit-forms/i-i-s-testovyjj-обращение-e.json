@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудник",
+      "projection": "СотрудникL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "НаОснове",
+      "projection": "ОбращениеL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Обращение",
+  "name": "IISTestovyjjОбращениеE",
+  "className": "ОбращениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-testovyjj-обращение",
+      "modelProjection": "ОбращениеE"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Testovyjj",
+  "applicationTitle": "Testovyjj",
+  "items": [
+    {
+      "link": null,
+      "menuName": "testovyjj",
+      "caption": "Testovyjj",
+      "title": "Testovyjj",
+      "children": [
+        {
+          "link": "i-i-s-testovyjj-обращение-l",
+          "menuName": null,
+          "caption": "Обращение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-testovyjj-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

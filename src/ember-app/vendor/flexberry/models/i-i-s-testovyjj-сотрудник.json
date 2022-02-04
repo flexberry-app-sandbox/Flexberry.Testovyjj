@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISTestovyjjСотрудник",
+  "modelName": "i-i-s-testovyjj-сотрудник",
+  "className": "Сотрудник",
+  "nameSpace": "IIS.Testovyjj",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "имя",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СотрудникE",
+      "modelName": "i-i-s-testovyjj-сотрудник",
+      "attrs": [
+        {
+          "name": "имя",
+          "caption": "Имя",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СотрудникL",
+      "modelName": "i-i-s-testovyjj-сотрудник",
+      "attrs": [
+        {
+          "name": "имя",
+          "caption": "Имя",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
